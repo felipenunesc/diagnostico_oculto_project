@@ -1,0 +1,101 @@
+ID,Nome,Idade,Sintomas,Histórico Médico,Diagnóstico Preliminar,Alerta
+1,Paciente 1,66,"Dor no Peito, Palpitações, Cansaço",Sem histórico relevante,Hepatite Crônica,0
+2,Paciente 2,64,"Dores Musculares, Fraqueza, Perda de Apetite",Sem histórico relevante,Indeterminado,1
+3,Paciente 3,78,"Perda de Peso, Febre Persistente, Suor Noturno",Paciente com HIV,Gastrite,0
+4,Paciente 4,26,"Sangramento Nasal, Fadiga, Anemia",Tabagismo há 20 anos,Hepatite Crônica,0
+5,Paciente 5,27,"Dores de Cabeça, Náusea, Tontura",Tabagismo há 20 anos,Migrânea Crônica,0
+6,Paciente 6,72,"Sangramento Nasal, Fadiga, Anemia",Uso prolongado de corticoides,Indeterminado,1
+7,Paciente 7,57,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Uso prolongado de corticoides,Hepatite Crônica,0
+8,Paciente 8,66,"Dor Abdominal, Febre, Náusea",Uso prolongado de corticoides,Indeterminado,1
+9,Paciente 9,37,"Falta de Ar, Fadiga, Suor Noturno",Exposição a Produtos Químicos,Migrânea Crônica,0
+10,Paciente 10,30,"Dores Musculares, Fraqueza, Perda de Apetite",Diabetes e Hipertensão,Arritmia Cardíaca,0
+11,Paciente 11,67,"Sangramento Nasal, Fadiga, Anemia",Paciente com HIV,Indeterminado,1
+12,Paciente 12,63,"Perda de Peso, Febre Persistente, Suor Noturno",Diabetes e Hipertensão,Hepatite Crônica,0
+13,Paciente 13,73,"Perda de Peso, Febre Persistente, Suor Noturno",Sedentarismo e Obesidade,Infecção Respiratória,0
+14,Paciente 14,27,"Tosse, Cansaço, Perda de Peso",Diabetes e Hipertensão,Infecção Respiratória,0
+15,Paciente 15,61,"Dores Musculares, Fraqueza, Perda de Apetite",Sem histórico relevante,Indeterminado,1
+16,Paciente 16,26,"Dores Musculares, Fraqueza, Perda de Apetite",Doença Pulmonar Obstrutiva Crônica,Migrânea Crônica,0
+17,Paciente 17,54,"Dores de Cabeça, Náusea, Tontura",Histórico de Pneumonia Recorrente,Hepatite Crônica,0
+18,Paciente 18,61,"Sangramento Nasal, Fadiga, Anemia",Uso prolongado de corticoides,Arritmia Cardíaca,0
+19,Paciente 19,51,"Perda de Peso, Febre Persistente, Suor Noturno",Paciente com HIV,Doença Autoimune,0
+20,Paciente 20,75,"Pele Amarelada, Dor Abdominal, Fadiga",Doença Pulmonar Obstrutiva Crônica,Indeterminado,1
+21,Paciente 21,80,"Falta de Ar, Fadiga, Suor Noturno",Doença Pulmonar Obstrutiva Crônica,Anemia Severa,0
+22,Paciente 22,68,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Doença Pulmonar Obstrutiva Crônica,Indeterminado,1
+23,Paciente 23,30,"Perda de Peso, Febre Persistente, Suor Noturno",Histórico de Câncer na Família,Migrânea Crônica,0
+24,Paciente 24,51,"Sangramento Nasal, Fadiga, Anemia",Diabetes e Hipertensão,Suspeita de Câncer,1
+25,Paciente 25,65,"Sangramento Nasal, Fadiga, Anemia",Sem histórico relevante,Gastrite,0
+26,Paciente 26,77,"Dores Musculares, Fraqueza, Perda de Apetite",Doença Pulmonar Obstrutiva Crônica,Indeterminado,1
+27,Paciente 27,78,"Perda de Peso, Febre Persistente, Suor Noturno",Histórico de Câncer na Família,Infecção Respiratória,0
+28,Paciente 28,44,"Falta de Ar, Fadiga, Suor Noturno",Histórico de Câncer na Família,Indeterminado,1
+29,Paciente 29,65,"Sangramento Nasal, Fadiga, Anemia",Histórico de Câncer na Família,Arritmia Cardíaca,0
+30,Paciente 30,30,"Pele Amarelada, Dor Abdominal, Fadiga",Tabagismo há 20 anos,Anemia Severa,0
+31,Paciente 31,31,"Pele Amarelada, Dor Abdominal, Fadiga",Exposição a Produtos Químicos,Migrânea Crônica,0
+32,Paciente 32,69,"Dores Musculares, Fraqueza, Perda de Apetite",Histórico de Câncer na Família,Doença Autoimune,0
+33,Paciente 33,39,"Dor Abdominal, Febre, Náusea",Diabetes e Hipertensão,Migrânea Crônica,0
+34,Paciente 34,36,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Diabetes e Hipertensão,Suspeita de Câncer,1
+35,Paciente 35,75,"Falta de Ar, Fadiga, Suor Noturno",Paciente com HIV,Anemia Severa,0
+36,Paciente 36,32,"Dores Musculares, Fraqueza, Perda de Apetite",Exposição a Produtos Químicos,Arritmia Cardíaca,0
+37,Paciente 37,25,"Dores Musculares, Fraqueza, Perda de Apetite",Sedentarismo e Obesidade,Gastrite,0
+38,Paciente 38,39,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Diabetes e Hipertensão,Infecção Respiratória,0
+39,Paciente 39,72,"Pele Amarelada, Dor Abdominal, Fadiga",Uso prolongado de corticoides,Indeterminado,1
+40,Paciente 40,60,"Dores Musculares, Fraqueza, Perda de Apetite",Paciente com HIV,Suspeita de Câncer,1
+41,Paciente 41,58,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Paciente com HIV,Infecção Respiratória,0
+42,Paciente 42,58,"Tosse, Cansaço, Perda de Peso",Tabagismo há 20 anos,Infecção Respiratória,0
+43,Paciente 43,62,"Dor Abdominal, Febre, Náusea",Doença Pulmonar Obstrutiva Crônica,Indeterminado,1
+44,Paciente 44,31,"Dor no Peito, Palpitações, Cansaço",Sedentarismo e Obesidade,Hepatite Crônica,0
+45,Paciente 45,70,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Paciente com HIV,Arritmia Cardíaca,0
+46,Paciente 46,42,"Falta de Ar, Fadiga, Suor Noturno",Diabetes e Hipertensão,Indeterminado,1
+47,Paciente 47,78,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Histórico de Pneumonia Recorrente,Indeterminado,1
+48,Paciente 48,41,"Pele Amarelada, Dor Abdominal, Fadiga",Paciente com HIV,Suspeita de Câncer,1
+49,Paciente 49,55,"Perda de Peso, Febre Persistente, Suor Noturno",Sedentarismo e Obesidade,Suspeita de Câncer,1
+50,Paciente 50,33,"Sangramento Nasal, Fadiga, Anemia",Uso prolongado de corticoides,Anemia Severa,0
+51,Paciente 51,66,"Pele Amarelada, Dor Abdominal, Fadiga",Doença Pulmonar Obstrutiva Crônica,Arritmia Cardíaca,0
+52,Paciente 52,63,"Dor Abdominal, Febre, Náusea",Exposição a Produtos Químicos,Doença Autoimune,0
+53,Paciente 53,67,"Sangramento Nasal, Fadiga, Anemia",Paciente com HIV,Arritmia Cardíaca,0
+54,Paciente 54,36,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Histórico de Pneumonia Recorrente,Hepatite Crônica,0
+55,Paciente 55,47,"Dor no Peito, Palpitações, Cansaço",Paciente com HIV,Arritmia Cardíaca,0
+56,Paciente 56,67,"Sangramento Nasal, Fadiga, Anemia",Histórico de Pneumonia Recorrente,Doença Autoimune,0
+57,Paciente 57,30,"Dor no Peito, Palpitações, Cansaço",Doença Pulmonar Obstrutiva Crônica,Infecção Respiratória,0
+58,Paciente 58,62,"Dor no Peito, Palpitações, Cansaço",Uso prolongado de corticoides,Gastrite,0
+59,Paciente 59,39,"Dor no Peito, Palpitações, Cansaço",Tabagismo há 20 anos,Gastrite,0
+60,Paciente 60,39,"Dor no Peito, Palpitações, Cansaço",Doença Pulmonar Obstrutiva Crônica,Doença Autoimune,0
+61,Paciente 61,78,"Pele Amarelada, Dor Abdominal, Fadiga",Tabagismo há 20 anos,Arritmia Cardíaca,0
+62,Paciente 62,66,"Sangramento Nasal, Fadiga, Anemia",Histórico de Câncer na Família,Suspeita de Câncer,1
+63,Paciente 63,72,"Dor Abdominal, Febre, Náusea",Doença Pulmonar Obstrutiva Crônica,Infecção Respiratória,0
+64,Paciente 64,69,"Perda de Peso, Febre Persistente, Suor Noturno",Paciente com HIV,Anemia Severa,0
+65,Paciente 65,61,"Dores Musculares, Fraqueza, Perda de Apetite",Exposição a Produtos Químicos,Gastrite,0
+66,Paciente 66,39,"Dores de Cabeça, Náusea, Tontura",Diabetes e Hipertensão,Indeterminado,1
+67,Paciente 67,38,"Pele Amarelada, Dor Abdominal, Fadiga",Paciente com HIV,Hepatite Crônica,0
+68,Paciente 68,67,"Sangramento Nasal, Fadiga, Anemia",Exposição a Produtos Químicos,Anemia Severa,0
+69,Paciente 69,35,"Perda de Peso, Febre Persistente, Suor Noturno",Diabetes e Hipertensão,Infecção Respiratória,0
+70,Paciente 70,60,"Tosse, Cansaço, Perda de Peso",Uso prolongado de corticoides,Arritmia Cardíaca,0
+71,Paciente 71,30,"Pele Amarelada, Dor Abdominal, Fadiga",Uso prolongado de corticoides,Suspeita de Câncer,1
+72,Paciente 72,51,"Dores Musculares, Fraqueza, Perda de Apetite",Exposição a Produtos Químicos,Anemia Severa,0
+73,Paciente 73,61,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Uso prolongado de corticoides,Indeterminado,1
+74,Paciente 74,62,"Falta de Ar, Fadiga, Suor Noturno",Paciente com HIV,Arritmia Cardíaca,0
+75,Paciente 75,45,"Falta de Ar, Fadiga, Suor Noturno",Paciente com HIV,Hepatite Crônica,0
+76,Paciente 76,74,"Tosse, Cansaço, Perda de Peso",Tabagismo há 20 anos,Migrânea Crônica,0
+77,Paciente 77,65,"Sangramento Nasal, Fadiga, Anemia",Uso prolongado de corticoides,Migrânea Crônica,0
+78,Paciente 78,79,"Tosse, Cansaço, Perda de Peso",Doença Pulmonar Obstrutiva Crônica,Indeterminado,1
+79,Paciente 79,27,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Doença Pulmonar Obstrutiva Crônica,Doença Autoimune,0
+80,Paciente 80,72,"Perda de Peso, Febre Persistente, Suor Noturno",Doença Pulmonar Obstrutiva Crônica,Indeterminado,1
+81,Paciente 81,64,"Pele Amarelada, Dor Abdominal, Fadiga",Histórico de Câncer na Família,Gastrite,0
+82,Paciente 82,55,"Pele Amarelada, Dor Abdominal, Fadiga",Sedentarismo e Obesidade,Indeterminado,1
+83,Paciente 83,44,"Dificuldade para Engolir, Tosse Crônica, Rouquidão",Uso prolongado de corticoides,Gastrite,0
+84,Paciente 84,54,"Pele Amarelada, Dor Abdominal, Fadiga",Uso prolongado de corticoides,Hepatite Crônica,0
+85,Paciente 85,27,"Dores de Cabeça, Náusea, Tontura",Histórico de Câncer na Família,Migrânea Crônica,0
+86,Paciente 86,71,"Tosse, Cansaço, Perda de Peso",Histórico de Câncer na Família,Indeterminado,1
+87,Paciente 87,52,"Pele Amarelada, Dor Abdominal, Fadiga",Exposição a Produtos Químicos,Indeterminado,1
+88,Paciente 88,40,"Dores Musculares, Fraqueza, Perda de Apetite",Exposição a Produtos Químicos,Infecção Respiratória,0
+89,Paciente 89,38,"Dores de Cabeça, Náusea, Tontura",Histórico de Câncer na Família,Migrânea Crônica,0
+90,Paciente 90,36,"Falta de Ar, Fadiga, Suor Noturno",Sem histórico relevante,Infecção Respiratória,0
+91,Paciente 91,46,"Dor no Peito, Palpitações, Cansaço",Exposição a Produtos Químicos,Doença Autoimune,0
+92,Paciente 92,72,"Dor Abdominal, Febre, Náusea",Exposição a Produtos Químicos,Indeterminado,1
+93,Paciente 93,62,"Pele Amarelada, Dor Abdominal, Fadiga",Exposição a Produtos Químicos,Migrânea Crônica,0
+94,Paciente 94,72,"Tosse, Cansaço, Perda de Peso",Exposição a Produtos Químicos,Gastrite,0
+95,Paciente 95,26,"Dores de Cabeça, Náusea, Tontura",Tabagismo há 20 anos,Hepatite Crônica,0
+96,Paciente 96,67,"Perda de Peso, Febre Persistente, Suor Noturno",Doença Pulmonar Obstrutiva Crônica,Gastrite,0
+97,Paciente 97,44,"Sangramento Nasal, Fadiga, Anemia",Diabetes e Hipertensão,Infecção Respiratória,0
+98,Paciente 98,74,"Falta de Ar, Fadiga, Suor Noturno",Sedentarismo e Obesidade,Arritmia Cardíaca,0
+99,Paciente 99,47,"Falta de Ar, Fadiga, Suor Noturno",Sedentarismo e Obesidade,Hepatite Crônica,0
+100,Paciente 100,71,"Tosse, Cansaço, Perda de Peso",Diabetes e Hipertensão,Doença Autoimune,0
